@@ -4,7 +4,7 @@
 
 #### présentation de l'entreprise :
 
-- bachelier Techniques Infographiques option Web
+- bachelier en Techniques Infographiques - option Web
 - https://www.hepl.be/fr/techniques-infographiques/web
 - principaux concurrents :
   - [Design Web Transmedia](http://dwm.re/)
@@ -15,12 +15,12 @@
 
 - augmenter le nombre d'étudiants inscrits à la section
 - augmenter les visibilités des anciens étudiants
-- présenter le programme des cours et les professeurs à l'aide fiche informationnelles
+- présenter le programme des cours et les professeurs à l'aide fiches informationnelles
 - présenter les différentes entreprises et leurs métiers et faciliter les interactions avec celles-ci (publications d'offres de stage,...)
 - présenter les actualités de la section (participation à des événements, journée porte ouverte,...) et mettre en évidence certaines actualités sur la page d'accueil temporairement (style d'un blog)
-- section FAQ
+- section FAQ (répartie en catégories ?)
 - espace interactif dans lequel les utilisateurs et les étudiants peuvent interagir (style d'un forum => nécessite un compte)
-- informer sur les normes de la qualité web
+- informer sur les normes de la qualité web (sous forme de tutoriels/glossaire)
 
 #### cible :
 
@@ -31,13 +31,13 @@
 #### périmètre du projet :
 
 - le site doit être disponible en Anglais, Allemand et Néerlandais
-- le site doit être adaptés pour tous les supports
+- le site doit être adapté pour tous les supports
 
 #### description :
 
 - nom de domaine et hébergement à définir
 - document de présentation : [site de du bachelier WEB de l'HEPL](https://www.hepl.be/fr/techniques-infographiques/web)
-- ressources disponibles : logo de l'HEPL,  projet d'un ancien élève (Jimmy Letecheur)
+- ressources disponibles : logo de l'HEPL, projet d'un ancien élève (Jimmy Letecheur)
 
 #### arborescence :
 
@@ -55,7 +55,7 @@
   - discussions
   - présentation (introduction, cours et professeurs)
   - partenaires (anciens élèves et entreprises)
-  - glossaire/tutos
+  - glossaire(/tutos)
   - emplois/stages
   - FAQ
 
@@ -85,6 +85,6 @@
 
 - école de web/d'infographie
 - école de web/d'infographie
-- formation en web/d'infographie
-- bachelier en web/d'infographie
+- formation en web/infographie
+- bachelier en web/infographie
 - stages de web/d'infographie
