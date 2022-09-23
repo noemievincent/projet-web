@@ -14,13 +14,15 @@ Principaux concurrents :
 
 L'objectif principal du site est d'augmenter les nombres d'étudiants inscrits à la section au moyen de 3 grandes sections :
 
-1. Présenter les différents projets réalisés au fil des années et permettre aux anciens étudiants de partager leur expérience et leur métier, ainsi qu'expliquer en détail le programme des cours et présenter les différents professeurs afin que les futurs étudiants sachent à quoi s'attendre. Une section _Glossaire/Tutoriels_ permettrait aussi d'informer sur les normes de la qualité web.
+1. Présenter les différents projets réalisés au fil des années et permettre aux anciens étudiants de partager leur expérience et leur métier, ainsi qu'expliquer en détail le programme des cours et présenter les différents professeurs afin que les futurs étudiants sachent à quoi s'attendre.
 
 
 2. Présenter le réseau professionnel de la section avec différentes entreprises et permettre à celles-ci de présenter leurs différents métiers mais aussi de mettre en avant leurs offres de stages via un formulaire.
 
 
 3. Faciliter les échanges et l'information en proposant un forum (nécessite un compte) pour poser des questions et partager ses connaissances, ainsi qu'une mise en avant des différentes actualités de la section (participation à des évènements, journée porte ouverte,...). Pour les questions fréquentes, une FAQ peut aussi être mise en place.
+
+Le site proposera une section annexe dans laquelle les utilisateurs peuvent retrouver un glossaire ou regroupement de tutoriels qui informent sur la qualité web ainsi qu'une liste de documentations et d'articles traduits.
 
 ### cible :
 
@@ -61,7 +63,7 @@ Le site propose différents types de contenus :
   - des articles avec possiblement des images et vidéos
   - des fiches informationnelles (projets, élèves, professeurs,...) contenant des images et potentiellement des vidéos
 
-Certains contenus ont la possibilité d'être partagé sur des plateformes externes par les utilisateurs
+Certains contenus ont la possibilité d'être partagé sur des plateformes externes par les utilisateurs.
 
 ### contraintes techniques :
 
