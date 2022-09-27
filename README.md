@@ -1,4 +1,4 @@
 # projet WEB
 
-- voir le [cahier des charges](docs/cahier-des-charges.md)
+- voir le [cahier des charges](docs/brief.md)
 - voir les [personas](docs/personas.md) (en cours)

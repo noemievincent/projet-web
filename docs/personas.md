@@ -27,3 +27,4 @@ Suite à la crise du COVID-19, l'entreprise d'Hubert a perdu beaucoup d'employé
 ### 4. Aurélie Mahe
 #### 32 ans — ancien élève qui veut partager son expérience
 
+Après son stage de dernière année chez WhiteCube chez qui elle a directement été engagée pendant 2 ans puis 6 autres années passées dans différentes entreprises de Web aux 4 coins du monde, Aurélie est maintenant indépendante et a récemment été recontactée par un de ses anciens professeurs demandant son témoignage pour le publier sur le site de la section. Quelques mois après la mise en ligne du site, elle décide de le visiter afin de voir ce qu'il en est et tombe sur la page du forum qui recueille déjà multiples questions. Elle passe plusieurs minutes à répondre aux différentes questions, partager son expérience plus en détail et rassurer ceux qui ont des doutes,... et propose même d'engager un ou deux stagiares.
